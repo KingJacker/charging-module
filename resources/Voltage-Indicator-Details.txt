@@ -1,0 +1,7 @@
+im building a voltage indicator for a single cell lipo
+the leds im using use 20mA at 2 to 3 volt
+
+the ac source in schematic is just to simulate the batteries voltage range
+as for the 5v power source for the reference voltages aswell as power for the comparators im considering the TLV761
+
+will this LM2901BIPWR ic work as the comparator?
