@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP73871-2CCI_ML")(type "KiCad")(uri "/Users/kingjacker/Documents/KiCad/projects/charging-module/footprints/MCP73871-2CCI_ML/MCP73871-2CCI_ML.kicad_sym")(options "")(descr ""))
+)
